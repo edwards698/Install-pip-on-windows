@@ -22,11 +22,11 @@ python --version
 
 If it is installed, You will see something like this:
 
-| Release version | Release date  |
-|-----------------|---------------|
-| Python 3.12.5   | Aug. 6, 2024  | 
-| Python 3.12.4   | June 6, 2024  | 
-| Python 3.12.3   | April 9, 2024 |
+| Release version    | Release date  |
+|--------------------|---------------|
+|  `Python 3.12.5`   | Aug. 6, 2024  | 
+|  `Python 3.12.4`   | June 6, 2024  | 
+|  `Python 3.12.3`   | April 9, 2024 |
 
 Depending on the python version you've installed.
 
@@ -39,4 +39,4 @@ Installing pip in Windows is very easy. You just need to follow given steps to i
 * Add pip to environment variables
 
 ### Method 1: 
-Downlaod a *get-pip.py* file here [here](https://github.com/edwards698/Install-pip-on-windows?tab=readme-ov-file) On the main page of the repository, look for a green button that says **Code** (*usually found near the top-right corner of the repository page*). Click on the **Code** button. In the dropdown menu, you will see an option that says **Download ZIP**. Click on this option. Save the ZIP File: Your browser will start downloading the ZIP file. Once the download is complete, you can open it with any standard ZIP file extraction tool.
+Downlaod a *get-pip.py* file [here](https://github.com/edwards698/Install-pip-on-windows?tab=readme-ov-file) On the main page of the repository, look for a green button that says **Code** (*usually found near the top-right corner of the repository page*). Click on the **Code** button. In the dropdown menu, you will see an option that says **Download ZIP**. Click on this option. Save the ZIP File: Your browser will start downloading the ZIP file. Once the download is complete, you can open it with any standard ZIP file extraction tool.
