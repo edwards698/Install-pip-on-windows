@@ -11,7 +11,7 @@ pip install package_name
 ## Requirements
 Python should be installed on your Windows machine.
 
-To get more knowledge about Python packages or modules, get hands-on Python Installation Documentation[ Python Installation Documentation](https://docs.python.org/3/installing/index.html). This will offer you advanced insights into Python programming.
+To get more knowledge about Python packages or modules, get hands-on[ Python Installation Documentation](https://docs.python.org/3/installing/index.html). This will offer you advanced insights into Python programming.
 
 ## Check if Python is Installed
 Run the following command to test if Python is installed or not.
@@ -29,3 +29,11 @@ If it is installed, You will see something like this:
 | Python 3.12.3   | April 9, 2024 |
 
 Depending on the python version you've installed.
+
+# Installing Python pip on Windows
+Installing pip in Windows is very easy. You just need to follow given steps to install pip and some additional steps to finally use it. By these steps we can see how to pip install on Windows.
+
+* Download pip
+* Install pip
+* Verify Installation
+* Add pip to environment variables
