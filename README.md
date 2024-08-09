@@ -52,4 +52,12 @@ C:\Users\YourUserName\AppData\Local\Programs\Python\Python312
 ```
 ![shell](https://github.com/user-attachments/assets/a8ecda6a-b00d-44e3-a2d9-07cc42d90c67)
 
+### Step 4: 
+get-pip.py is a bootstrapping script that enables users to install pip in Python environments. Here, we are installing pip python3. Run the command given below:
+```shell
+python get-pip.py
+```
+Now wait through the installation process.
 
+## Congratulations
+pip is now installed on your system.
