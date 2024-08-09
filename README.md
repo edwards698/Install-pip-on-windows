@@ -22,10 +22,10 @@ python --version
 
 If it is installed, You will see something like this:
 
-| Release version |  Release date |
-|---------------------------------|
-| Python 3.12.5   |  Aug. 6, 2024 | 
-| Python 3.12.4   |  June 6, 2024 | 
-| Python 3.12.3   |  April 9, 2024| 
+| Release version | Release date  |
+|-----------------|---------------|
+| Python 3.12.5   | Aug. 6, 2024  | 
+| Python 3.12.4   | June 6, 2024  | 
+| Python 3.12.3   | April 9, 2024 |
 
 Depending on the python version you've installed.
