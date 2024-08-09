@@ -6,6 +6,7 @@ These files are stored in a large “online repository” termed as Python Packa
 
 ```shell
 pip install package_name
+```
 
 ## Requirement
 Python should be installed on your Windows machine.
@@ -17,6 +18,7 @@ Run the following command to test if Python is installed or not.
 
 ```shell
 python --version
+```
 
 If it is installed, You will see something like this:
 
