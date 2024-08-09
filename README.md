@@ -36,7 +36,8 @@ Installing pip in Windows is very easy. You just need to follow given steps to i
 * Download pip
 * Install pip
 * Verify Installation
-* Add pip to environment variables
 
-### Method 1: 
+### Step 1: Manually install Python PIP on Windows
 Downlaod a *get-pip.py* file [here](https://github.com/edwards698/Install-pip-on-windows?tab=readme-ov-file) On the main page of the repository, look for a green button that says **Code** (*usually found near the top-right corner of the repository page*). Click on the **Code** button. In the dropdown menu, you will see an option that says **Download ZIP**. Click on this option. Save the ZIP File: Your browser will start downloading the ZIP file. Once the download is complete, you can open it with any standard ZIP file extraction tool.
+
+Step 2: Once you downlaod the *get-pip.py* file store it in the same directory as python is installed.
